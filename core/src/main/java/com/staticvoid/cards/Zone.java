@@ -1,4 +1,4 @@
-package com.staticvoid;
+package com.staticvoid.cards;
 
 public enum Zone {
     DECK,
